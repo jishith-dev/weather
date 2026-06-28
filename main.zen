@@ -74,3 +74,4 @@ string city = input("Enter city name: ")
 string data = getWeather(city)
 
 displayInfo(city, data)
+screen("Updated v1.0.1")
