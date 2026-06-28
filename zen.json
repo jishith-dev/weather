@@ -1,0 +1,8 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "author": "your-github-username",
+  "repo": "https://github.com/your-username/zen-weather",
+  "description": "",
+  "main": "main.zen"
+}
